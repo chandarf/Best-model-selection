@@ -1,0 +1,19 @@
+This project revealed which model is best out of some commonly used model.
+Different model are tested with same dataset and their accuracy is noted for camparision.
+
+Dataset used =Churn_Data
+total 9 algorithms r used namely
+
+LogisticRegression
+Naive_bayes
+svm import SVC
+DecisionTree
+RandomForest
+KNN
+Stochastic Gradient Boosting
+Gradient Boosting Classifier
+XG Booster
+
+
+At last we found best model  having high accuracy for given dataset i.e churn dataset is none other than
+Random Forest.
